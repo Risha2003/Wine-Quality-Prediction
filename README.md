@@ -14,13 +14,12 @@ density,
 sulphates,
 alcohol.
 
-Algorithms Used
-Support Vector Classifier: ----> Accuracy: 87%
-Random Forest Classifier: ----> Accuracy: 88%
+Algorithms Used:
+
+Support Vector Classifier: ----> Accuracy: 87%,
+Random Forest Classifier: ----> Accuracy: 88%,
 This algorithms will predict the quality of wine.
 
-Model Creation
-
-I have deployed this model locally with the help of flask environment. The result is as follows.
-
+Model Creation:
+I have deployed this model locally with the help of flask environment. The result is as follows;
 The homepage will input the data from the user and will display the result.
