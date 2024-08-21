@@ -1,24 +1,26 @@
-Wine Quality Prediction
+# Wine Quality Prediction
 
-This model predicts the quality of wine based on the following features:
+This project involves a predictive model that estimates the quality of wine based on various features. The model uses machine learning algorithms to analyze wine characteristics and predict quality ratings.
 
-pH,
-fixed Acidity,
-volatile acidity,
-citric acid,
-residual sugar,
-chlorides,
-free sulphur dioxide,
-total sulphur dioxide,
-density,
-sulphates,
-alcohol.
+ Features:
 
-Algorithms Used:
+- pH
+- Fixed Acidity
+- Volatile Acidity
+- Citric Acid
+- Residual Sugar
+- Chlorides
+- Free Sulphur Dioxide
+- Total Sulphur Dioxide
+- Density
+- Sulphates
+- Alcohol
 
-Support Vector Classifier: ----> Accuracy: 87%,
-Random Forest Classifier: ----> Accuracy: 88%,
-This algorithms will predict the quality of wine.
+ Algorithms Used:
+
+- Support Vector Classifier: Accuracy of 87%
+- Random Forest Classifier: Accuracy of 88%
+
 
 Model Creation:
 I have deployed this model locally with the help of flask environment. The result is as follows;
